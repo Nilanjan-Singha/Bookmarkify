@@ -18,7 +18,7 @@ Bookmarkify is a clean, minimal bookmarking platform designed to help you manage
 
 ---
 
-🌐 [View the Live App](https://bookmarkify.vercel.app)
+🌐 [Start Bookmarking Now](https://bookmarkify2.netlify.app/){:target="_blank"}
 
 ---
 
