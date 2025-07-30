@@ -23,13 +23,15 @@ Bookmarkify is a clean, minimal bookmarking platform designed to help you manage
 ---
 
 ## PREVIEWS
-![Bookmarkify](/public/bookmarkify.png)
+![Bookmarkify](public/bookmarkify.png)
 
 ---
 
 ## TECH/TOOLS STACK USED
 
 ReactJS, TailwindCSS, LocalStorage, Netlify
+
+--- 
 
 ## 📬 Contact
 
