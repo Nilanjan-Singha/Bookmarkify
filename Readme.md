@@ -18,7 +18,7 @@ Bookmarkify is a clean, minimal bookmarking platform designed to help you manage
 
 ---
 
-🌐 [Start Bookmarking Now](https://bookmarkify2.netlify.app/){:target="_blank"}
+🌐 <a href="https://bookmarkify2.netlify.app/" target="_blank">Start Bookmarking Now</a>
 
 ---
 
